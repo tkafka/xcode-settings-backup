@@ -1,5 +1,6 @@
 # xcode-settings-backup
 
+Forked from [jessesquires/xcode-settings-backup](https://github.com/jessesquires/xcode-settings-backup), thanks!
 *Backup of my Xcode configuration and various settings*
 
 ## Contents
@@ -11,18 +12,17 @@
 ## Usage
 
 ```bash
-> git clone git@github.com:jessesquires/xcode-settings-backup.git
+> git clone git@github.com:tkafka/xcode-settings-backup.git
 > cd xcode-settings-backup/
-```
-
-### Install
-
-```bash
-> ./scripts/install.sh
 ```
 
 ### Backup
 
 ```bash
 > ./scripts/backup.sh
+```
+### Restore
+
+```bash
+> ./scripts/restore.sh
 ```
