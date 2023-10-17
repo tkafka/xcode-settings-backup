@@ -1,7 +1,8 @@
 # xcode-settings-backup
 
+*Backup of my Xcode themes, breakpoints and template macros*
+
 Forked from [jessesquires/xcode-settings-backup](https://github.com/jessesquires/xcode-settings-backup), thanks!
-*Backup of my Xcode configuration and various settings*
 
 ## Contents
 
